@@ -5,11 +5,11 @@
 
 ## Screenshots
 
-There are several screenshots on our [**official web page**](https://virtian.org/?page=screenshots)
+There are several screenshots on our [**official web page**](https://virtian.org/?page=screenshots).
 
 ## Download
 
-
+You can download the latest version of Virtian from [**here**](https://github.com/softsun-cz/virtian/releases).
 
 ## Features
 
