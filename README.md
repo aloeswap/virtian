@@ -35,7 +35,7 @@ reboot
 ```
 
 3. Access Virtian web user interface via web browser on **https://[YOUR-SERVER-IP]**
-4. Create the exception for https certificate
+4. Create the exception for unsigned https certificate in your browser
 5. Log in with password **"admin123"**
 
 ## Settings
