@@ -5,7 +5,7 @@
 
 ## Screenshots
 
-
+There are several screenshots on our [**official web page**](https://virtian.org/?page=screenshots)
 
 ## Download
 
