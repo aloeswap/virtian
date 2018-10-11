@@ -1,7 +1,5 @@
 #!/bin/bash
 
-VM_SCRIPT_VERSION=0.01
-
 apt-get update
 apt-get -y upgrade
 apt-get -y install mc ssh git net-tools nginx php-fpm php-imagick php-gd vnstat xfsprogs php-libvirt-php
