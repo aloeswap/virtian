@@ -1,5 +1,5 @@
 # About Virtian
-Virtian is a web user interface for virtual servers (based on KVM) management. It is designed primarily for Debian Linux 9.x, but it might work on other Linux distributions.
+**Virtian** is a web user interface for virtual servers (based on KVM) management. It is designed primarily for Debian Linux 9.x, but it might work on other Linux distributions.
 
 **Current version:** 0.01
 
