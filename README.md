@@ -1,5 +1,5 @@
 # About Virtian
-**Virtian** is a web user interface for virtual servers (based on KVM) management. It is designed primarily for Debian Linux 9.x, but it might work on other Linux distributions.
+**Virtian** is a web user interface for virtual servers management based on KVM. It is primarily designed for Debian Linux 9.x, but it might work on other Linux distributions.
 
 **Current version:** 0.01
 
@@ -22,7 +22,7 @@
 
 **Warning** - The following procedure is designed for clean installation of your server only. Do not install it on working environment, otherwise you might lose some of your data !!!
 
-1. Download and install the latest version of Debian 9.x netinst ISO file from here: https://www.debian.org/CD/netinst/
+1. Download and install the latest version of **Debian 9.x** netinst ISO file from here: https://www.debian.org/CD/netinst/
 2. Log in as **root** and run:
 
 ```sh
