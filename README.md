@@ -44,7 +44,7 @@ You can set some basic properties (password, web template path, installation ISO
 
 ## License
 
-This software is developed as open source under [**MIT License**](./LICENSE)
+This software is developed as open source under [**MIT License**](./LICENSE).
 
 ## Contact info
 **Web page:** https://virtian.org
