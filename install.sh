@@ -60,3 +60,4 @@ cat << EOF > /etc/issue
 
 EOF
 service nginx restart
+service php7.0-fpm restart
