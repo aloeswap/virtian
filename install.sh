@@ -13,10 +13,9 @@ sed -i -e 's/GRUB_CMDLINE_LINUX_DEFAULT="quiet/GRUB_CMDLINE_LINUX_DEFAULT="quiet
 update-grub
 echo -ne '' > /etc/motd
 rm /etc/update-motd.d/10-uname
-cd /usr/src/
-git clone https://github.com/softsun-cz/vm-webui.git
-mv vm-webui/src/* /var/www/
-rm -rf vm-webui
+mv ./src/* /var/www/
+cd ..
+rm -rf ./virtian
 
 cat << EOF > /etc/nginx/sites-enabled/default
 server {
