@@ -19,6 +19,7 @@ rm /etc/update-motd.d/10-uname
 mv ./src/* /var/www/
 cd ..
 rm -rf ./virtian
+cd ..
 mkdir /iso
 
 cat << EOF > /etc/nginx/sites-enabled/default
