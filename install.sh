@@ -59,3 +59,4 @@ cat << EOF > /etc/issue
  [1;39m  Console: [0m\l
 
 EOF
+service nginx restart
