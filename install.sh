@@ -56,4 +56,3 @@ cat << EOF > /etc/issue
  [1;39m  Console: [0m\l
 
 EOF
-reboot
